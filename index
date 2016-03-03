@@ -1,0 +1,20 @@
+<html>
+
+	<head>
+		<title> PÁGINA PRINCIPAL mjtorregrosa </title> <!--EL TÍTULO EN LA PESTAÑA DEL NAVEGADOR-->
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" /> <!--PARA QUE COJA LOS ACENTOS-->
+		<meta name="keywords" content="mjose, torregrosa, pruebas, web, curso, programacion, albacete, fuentealbilla">
+		<meta name="description" content="Esta es una página de pruebas del curso de Programación web 2016 en FuenteAlbilla.">
+		<meta http-equiv="Refresh" content="900"> <!--PARA QUE REFRESQUE LA WEB CADA X SEGUNDOS-->
+	</head>
+	
+		<body>
+		<body marginwidth="500"> <!--Margen izda/dcha-->
+		<body marginheight="100"> <!--Margen ariiba/abajo-->
+		<h1>Cicero</h1>
+		Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+		<body link="#3BE1DE" vlink="#0D1536" alink="#EC8116"> <!--Color de los links/color en que aparece-->
+		
+		<a href="link de pruebas">Link de pruebas </a>
+		</body>
+</html>
